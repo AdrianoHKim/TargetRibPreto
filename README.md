@@ -1,2 +1,2 @@
 # TargetRibPreto
-Processo seletivo para target Ribeirao Preto
+Processo seletivo para target Ribeirão Preto
